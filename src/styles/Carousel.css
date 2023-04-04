@@ -1,0 +1,17 @@
+.carousel{}
+
+.carousel .carousel__slides {}
+.carousel .carousel__slid {}
+
+
+.slide {}
+
+.slide .slide__hdl {}
+
+.slide .slide__text {}
+.slide .slide__link {}
+
+.nav {}
+
+.nav .nav__btn {}
+.nav .nav__btn.nav__btn--next {}
